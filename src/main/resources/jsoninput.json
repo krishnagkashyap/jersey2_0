@@ -1,0 +1,15 @@
+http://localhost:8080/mdcrestapp/rest/enableMDCIP/mdcData
+http://localhost:8080/mdcrestapp/rest/enableMDCIP/removePartnerForMultiDataCentre
+
+{
+  "remoteDataCentreClusterId": "",
+  "mdcClusterName": "DC1",
+  "adminServerHost": "den00smm.us.oracle.com",
+  "adminServerPort": "24697",
+  "oamServerMode": "OPEN",
+  "oamPrimaryServerHost": "den00smm.us.oracle.com",
+  "oamPrimaryServerPort": "5575",
+  "accessClientPasswd": "Welcome1",
+  "wlsUserName": "weblogic",
+  "wlsUserPassword": "welcome1"
+}
